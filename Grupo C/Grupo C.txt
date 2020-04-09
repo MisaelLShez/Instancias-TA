@@ -1,0 +1,271 @@
+Grupo C
+
+Instancia No: 1
+Coordenadas: 19.435726, -99.143893
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0020988407730326234
+
+Instancia No: 2
+Coordenadas: 19.432751, -99.133114
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0019355710217225791
+
+Instancia No: 3
+Coordenadas: 19.485161, -99.117819
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0024051689957195884
+
+Instancia No: 4
+Coordenadas: 19.479639, -99.139319
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0011805682070332286
+
+Instancia No: 5
+Coordenadas: 19.546176, -99.147456
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.001181796640732122
+
+Instancia No: 6
+Coordenadas: 19.352043, -99.193315
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0015092338535356963
+
+Instancia No: 7
+Coordenadas: 19.303104, -99.150506
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0011624812813627553
+
+Instancia No: 8
+Coordenadas: 19.427061, -99.167514
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0015821070196904382
+
+Instancia No: 9
+Coordenadas: 19.44645, -99.150297
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.001878580707268795
+
+Instancia No: 10
+Coordenadas: 19.452487, -99.137261
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0013250310612615119
+
+Instancia No: 11
+Coordenadas: 19.436381, -99.154426
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0015632681496902917
+
+Instancia No: 12
+Coordenadas: 19.254841, -99.089113
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 7.744476469242705E-4
+
+Instancia No: 13
+Coordenadas: 19.319379, -99.186618
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.001527296210946345
+
+Instancia No: 14
+Coordenadas: 19.405579, -99.09965
+No Museos: 60
+No Parques: 60
+No Zoologicos: 5
+No Lugares Historicos: 60
+No Lugares: 185
+Correlacion: 0.0014099741002125423
+
+Instancia No: 15
+Coordenadas: 19.385868, -99.226543
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.001214304143076159
+
+Instancia No: 16
+Coordenadas: 19.360845, -99.164755
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0014612073826219655
+
+Instancia No: 17
+Coordenadas: 19.301788, -99.18162
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.001567728831697324
+
+Instancia No: 18
+Coordenadas: 19.226915, -98.965518
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 4.5756964922925934E-4
+
+Instancia No: 19
+Coordenadas: 19.218084, -99.205533
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 7.946244236775873E-4
+
+Instancia No: 20
+Coordenadas: 19.420753, -99.181851
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0016255793769564863
+
+Instancia No: 21
+Coordenadas: 19.499758, -99.210754
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.001082851366365508
+
+Instancia No: 22
+Coordenadas: 19.318541, -99.032161
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 9.417445887902465E-4
+
+Instancia No: 23
+Coordenadas: 19.313624, -99.309601
+No Museos: 60
+No Parques: 60
+No Zoologicos: 3
+No Lugares Historicos: 60
+No Lugares: 183
+Correlacion: 2.1580485729863453E-4
+
+Instancia No: 24
+Coordenadas: 19.402627, -99.208645
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0014227996959953362
+
+Instancia No: 25
+Coordenadas: 19.468629, -99.19737
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.00103539239413764
+
+Instancia No: 26
+Coordenadas: 19.436117, -99.071833
+No Museos: 60
+No Parques: 60
+No Zoologicos: 5
+No Lugares Historicos: 60
+No Lugares: 185
+Correlacion: 0.001348021963836235
+
+Instancia No: 27
+Coordenadas: 19.323428, -99.143414
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0011250426744174996
+
+Instancia No: 28
+Coordenadas: 19.352401, -99.14289
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0014486023468332616
+
+Instancia No: 29
+Coordenadas: 19.497038, -99.139048
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0012063749671767153
+
+Instancia No: 30
+Coordenadas: 19.440788, -99.223506
+No Museos: 60
+No Parques: 60
+No Zoologicos: 4
+No Lugares Historicos: 60
+No Lugares: 184
+Correlacion: 0.0012325604647924922
